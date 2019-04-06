@@ -1,2 +1,0 @@
-pwsh $1 $2 $3  >/media/sf_centos/log/lls.txt
-

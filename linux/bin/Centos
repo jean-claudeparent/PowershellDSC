@@ -1,0 +1,2 @@
+pwsh  /media/sf_centos/PowershellDSC/linux/scripts/centos/Config.ps1 $1 $2 $3  >/media/sf_centos/log/configcentostxt
+
